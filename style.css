@@ -1,5 +1,11 @@
 /* CSS files add styling rules to your content */
 
 body {
-  background-color:#84C7D0;
+  background-color:#9368B7;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }
